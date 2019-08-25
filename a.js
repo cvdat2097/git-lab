@@ -1,3 +1,3 @@
-function a() {
-    return 123;
+function a(x, y) {
+    return x + y;
 }
